@@ -1,3 +1,17 @@
+// Carousel
+for (numberOfTurns = 1; numberOfTurns <= 10; numberOfTurns++){
+  console.log(`Carousel turn number ${numberOfTurns}`);
+}
+
+
+
+
+
+
+
+
+
+// FizzBuzz
 let number = 1;
 while (number <= 100) {
   const divisibleBy3 = number % 3 === 0;
